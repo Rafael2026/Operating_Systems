@@ -1,5 +1,5 @@
 ## Gestor de arranque
-<a href="https://drive.google.com/file/d/1FzshINxT96fx1cokGTooW7ZmK2oI3Hv9/view?usp=sharing">Arranque (Windows)</a>
+<a href="https://drive.google.com/file/d/1FzshINxT96fx1cokGTooW7ZmK2oI3Hv9/view?usp=sharing">Arranque</a>
 
 ## Terminal Windows
 <a href="https://www.profesionalreview.com/2018/11/07/comandos-windows-10">Comandos (Windows)</a>
