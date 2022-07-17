@@ -1,7 +1,7 @@
 ## Gestor de arranque
 <a href="https://drive.google.com/file/d/1FzshINxT96fx1cokGTooW7ZmK2oI3Hv9/view?usp=sharing">Comnados</a>
 
-## Terminal Windows
+## Terminal Linux y Windows
 <a href="https://drive.google.com/file/d/1Zhn6CO2JsoP6pWFJxx8nLCpqLosA-elM/view?usp=sharing">Comandos</a>
 
 ## Unit 4 - OS
