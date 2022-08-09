@@ -20,3 +20,6 @@
   </li>
   
 </ul>
+
+## Windows 10
+<a href="https://drive.google.com/file/d/10ojCp-N2qx-vkik_7gneVRf8iy5UpDmZ/view?usp=sharing">Course for experts</a>
