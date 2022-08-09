@@ -23,3 +23,6 @@
 
 ## Windows 10
 <a href="https://drive.google.com/file/d/10ojCp-N2qx-vkik_7gneVRf8iy5UpDmZ/view?usp=sharing">Course for experts</a>
+
+## Linux
+<a href=https://drive.google.com/drive/folders/1YbxooT3FeK9e39hQ-tNoIw-zamJt2P1L?usp=sharing">Handbook</a>
