@@ -9,6 +9,3 @@
 
 ## Windows Course
 Windows for experts: [link](https://drive.google.com/file/d/10ojCp-N2qx-vkik_7gneVRf8iy5UpDmZ/view)
-
-## Linux
-Handbook: [link](https://drive.google.com/file/d/17J73NVs6F4GyY6szVDv3iexUR1O4C-6g/view?pli=1)
